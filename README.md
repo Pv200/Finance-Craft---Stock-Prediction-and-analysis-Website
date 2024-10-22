@@ -1,4 +1,3 @@
-# Finance-Craft---Stock-Prediction-and-analysis-Website
 <h1>FinanceCraft</h1>
 <p>FinanceCraft is a comprehensive financial analysis and prediction tool that combines cutting-edge machine learning algorithms with intuitive web development to empower users with insights into stock market behavior.</p>
 
@@ -98,4 +97,13 @@ https://github.com/ATOMworkplace/FinanceCraft/assets/114564628/e16aa83e-6134-452
 <ul>
   <li>A Random Forest classifier is trained on the preprocessed data to predict stock price direction.</li>
   <li>The model is evaluated using accuracy score to assess its performance.</li>
-  <li>Results are displayed using visualizations such as bar plots to compare actual and predict
+  <li>Results are displayed using visualizations such as bar plots to compare actual and predicted price directions.</li>
+</ul>
+
+<h2>Interactive User Interface:</h2>
+<ul>
+  <li>Users can input a stock symbol to fetch corresponding data.</li>
+  <li>The interface dynamically updates based on the selected stock symbol, displaying the retrieved data and prediction results.</li>
+  <li>Widgets are provided for user interaction, enabling seamless exploration and analysis of stock price trends.</li>
+</ul>
+
